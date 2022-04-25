@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "breweries"
+version = "0.1.0"
+description = ""
+authors = ["adpleach <adpleach@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.4.2"
+jupyterlab = "^3.3.4"
+beautifulsoup4 = "^4.11.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
