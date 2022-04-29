@@ -9,6 +9,8 @@ python = "^3.10"
 pandas = "^1.4.2"
 jupyterlab = "^3.3.4"
 beautifulsoup4 = "^4.11.1"
+geopy = "^2.2.0"
+XlsxWriter = "^3.0.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
