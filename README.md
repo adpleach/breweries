@@ -12,7 +12,7 @@ The repo contains the following files:
 
 Data quality notes:
 * Beer information is only available for 25% of breweries listed
-* Location data is associated with beer url so is missing - work around for this uses geopy package to reverse geocode state and country
+* Location data is associated with beer url so is also only explicitly listed for 25% of breweries - work around for this uses geopy package to reverse geocode state and country
 
 Resources:
 * [BrewBound](https://brewbound.com)
