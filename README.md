@@ -19,3 +19,7 @@ Resources:
 * [Poetry](https://python-poetry.org/docs/)
 * [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 * [geopy](https://geopy.readthedocs.io/en/stable/)
+
+TODOs:
+* Refactor web scraping steps - atm in 'make it work stage'
+* Look into UnTappd as alternative data source - has more beer info, but much larger dataset corresponding to much longer script run time
